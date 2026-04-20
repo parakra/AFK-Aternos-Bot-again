@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Primemojis2.aternos.me",
-    "port": false,
+    "port": 40096,
     "version": "1.20.1",
     "try-creative": false
   },
